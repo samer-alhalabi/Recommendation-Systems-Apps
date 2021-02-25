@@ -8,4 +8,4 @@ This technique attempts to figure out what a user's favourite aspects of an item
 ### Collaborative Filtering aka (User-User Filtering):
 This technique uses other users to recommend items to the input user. It attempts to find users that have similar preferences and opinions as the input and then recommends items that they have liked to the input. There are several methods of finding similar users (Even some making use of Machine Learning), and the one we will be using here is going to be based on the Pearson Correlation Function.
 
-![image](images/Collaborative-Filtering.jpg)
+![image](images/Collaborative Filtering.jpg)
